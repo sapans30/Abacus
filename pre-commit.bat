@@ -1,5 +1,5 @@
 REM  PRE-COMMIT HOOK
-REM 
+REM  TESTING COMMENT ADDED BY SXS
 REM  The pre-commit hook is invoked before a Subversion txn is
 REM  committed.  Subversion runs this hook by invoking a program
 REM  (script, executable, binary, etc.) named 'pre-commit' (for which
